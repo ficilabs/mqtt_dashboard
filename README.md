@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![FiciLabs Banner](https://a.storyblok.com/f/290600019888888/1280x720/531bb38f8a/bd0675f4-7af3-45e1-b788-99357e0c3938.png&auto=format&fit=crop)
+![FiciLabs Banner](https://a.storyblok.com/f/290600019888888/1280x720/531bb38f8a/bd0675f4-7af3-45e1-b788-99357e0c3938.png)
 
 **A production-grade, real-time IoT management dashboard powered by MQTT, Vue 3, and Chart.js.**
 
